@@ -1,0 +1,13 @@
+﻿
+FullName                                                                
+--------                                                                
+C:\Users\x\Downloads\2345687980987645\image\apple-touch-icon.png        
+C:\Users\x\Downloads\2345687980987645\image\favicon-96x96.png           
+C:\Users\x\Downloads\2345687980987645\image\favicon.ico                 
+C:\Users\x\Downloads\2345687980987645\image\favicon.svg                 
+C:\Users\x\Downloads\2345687980987645\image\project_structure.txt       
+C:\Users\x\Downloads\2345687980987645\image\site.webmanifest            
+C:\Users\x\Downloads\2345687980987645\image\web-app-manifest-192x192.png
+C:\Users\x\Downloads\2345687980987645\image\web-app-manifest-512x512.png
+
+
