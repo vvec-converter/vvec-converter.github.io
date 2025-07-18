@@ -4,4 +4,4 @@
   </a>
 </p>
 
-🔗 **Сайт:**      [https://vvc-converter.github.io/](https://vvc-converter.github.io/) 
+🔗 **Сайт:**      [https://vvc-converter.github.io/](https://vvcconverter.github.io/) 
