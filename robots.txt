@@ -1,3 +1,18 @@
 User-agent: *
-Allow: /$
+Disallow: /tree/
+Disallow: /blob/
+Disallow: /commit/
+Disallow: /pull/
+Disallow: /issues/
+Disallow: /actions/
+Disallow: /wiki/
+Disallow: /security/
+Disallow: /settings/
+Disallow: /network/
+Disallow: /graphs/
+Disallow: /releases/
+Disallow: /tags/
+Disallow: /projects/
+Allow: /
+
 Sitemap: https://vvcconverter.github.io/sitemap.xml
