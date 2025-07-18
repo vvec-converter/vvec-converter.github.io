@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://vvc-converter.github.io/sitemap.xml
+Sitemap: https://vvcconverter.github.io/sitemap.xml
