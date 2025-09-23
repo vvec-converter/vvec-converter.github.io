@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pad_file_data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://pad.asp-software.org/schemas/2018" xsi:schemaLocation="http://pad.asp-software.org/schemas/2018 https://pad.asp-software.org/4.0/pad.xsd">
+  <program_info>
+    <program_name>VVC Converter</program_name>
+    <program_version>2.0.0</program_version>
+    <program_release_status>Stable</program_release_status>
+    <program_type>Freeware</program_type>
+    <program_cost_dollars>0.00</program_cost_dollars>
+    <program_os_support>Windows 10/11 (x64)</program_os_support>
+    <program_language>English</program_language>
+    <program_language>Russia</program_language>
+    <program_categories>
+      <category>Audio &amp; Video</category>
+      <category>Video Conversion</category>
+      <category>Codecs</category>
+    </program_categories>
+  </program_info>
+  <program_descriptions>
+    <elevator_pitch>Professional video converter to VVC (H.266) format with high compression efficiency</elevator_pitch>
+    <short_description>Converts video files to VVC (H.266) format through RAW intermediate conversion</short_description>
+    <long_description>VVC Converter is a specialized tool for converting video files to the latest VVC (H.266) format. The conversion process involves two stages: first, the source video is converted to RAW format (YUV), then encoded to VVC. This ensures maximum quality preservation.
+
+Key features:
+- Converts to VVC/H.266 format
+- Simple one-click operation
+- Progress bar showing conversion status
+- Output saved to D:/end-video folder
+
+Requirements:
+- Source video: 1080p, 30fps maximum
+- Sufficient free space (100MB video ≈ 5GB RAW temporary files)
+- Windows 10/11 64-bit
+
+Instructions:
+1. Run the program
+2. Select source video file
+3. Click "Start conversion"
+4. Wait for progress bar to complete
+5. Get converted video in D:/end-video folder
+
+Note: RAW intermediate files are automatically deleted after conversion.</long_description>
+    <keywords>vvc, vvc converter, vvec converter, H266, Versatile Video Coding, video converter, video encoding, codec, H.266</keywords>
+  </program_descriptions>
+  <program_urls>
+    <application_website_url>https://vvec-converter.github.io</application_website_url>
+    <download_url>https://vvec-converter.github.io</download_url>
+    <screenshot_url>https://vvec-converter.github.io//image/web-app-manifest-512x512.png</screenshot_url>
+        <screenshot_url>https://vvec-converter.github.io/image/vvc-conventer-program.jpg</screenshot_url>
+                <screenshot_url>https://vvec-converter.github.io/image/vvc-conventer-info.jpg</screenshot_url>
+    <support_url>https://vvec-converter.github.io</support_url>
+  </program_urls>
+  <company_info>
+    <company_name>VVC Converter</company_name>
+    <contact_info>
+      <contact_name>VVC Converter Team</contact_name>
+      <contact_email>support@vvec-converter.github.io</contact_email>
+    </contact_info>
+  </company_info>
+  <file_info>
+    <file_name>vvc_converter.exe</file_name>
+  </file_info>
+  <release_info>
+    <release_date>2025-07-06</release_date>
+    <release_notes>Initial release - VVC (H.266) video conversion tool</release_notes>
+  </release_info>
+  <copy_restrictions>
+    <eula>Free to use for personal and commercial purposes</eula>
+  </copy_restrictions>
+</pad_file_data>
