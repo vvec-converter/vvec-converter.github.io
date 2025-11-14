@@ -16,13 +16,13 @@
 🔗 **t.me**  
 [https://t.me/justinfo_group](https://t.me/justinfo_group)
 
-🔗 **t.me (канал)**  
+🔗 **t.me**  
 [https://t.me/s/justinfo_group](https://t.me/s/justinfo_group)
 
 🔗 **t.me vvc_converter**  
 [https://t.me/vvc_converter](https://t.me/vvc_converter)
 
-🔗 **t.me vvc_converter (канал)**  
+🔗 **t.me vvc_converter**  
 [https://t.me/s/vvc_converter](https://t.me/s/vvc_converter)
 
 🔗 **vk**  
