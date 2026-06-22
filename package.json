@@ -1,0 +1,7 @@
+{
+  "name": "vvc-converter",
+  "version": "3.0.1",
+  "description": "VVC Converter Electron App",
+  "main": "main.js",
+  "author": "VVC Converter"
+}
