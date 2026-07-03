@@ -16,3 +16,4 @@ Disallow: /projects/
 Allow: /
 
 Sitemap: https://vvcconverter.github.io/sitemap.xml
+Sitemap: https://vvcconvert.com/sitemap.xml
