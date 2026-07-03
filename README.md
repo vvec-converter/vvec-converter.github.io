@@ -38,10 +38,10 @@
 [https://ok.ru/group/70000042323721](https://ok.ru/group/70000042323721)
 
 🔗 **youtube-video**  
-[https://www.youtube.com/watch?v=B1ZKihe-XKM](https://www.youtube.com/watch?v=B1ZKihe-XKM)
+[https://www.youtube.com/watch?v=xPnz9BOiaFs](https://www.youtube.com/watch?v=xPnz9BOiaFs)
 
 🔗 **youtube-canal**  
-[https://www.youtube.com/@vvc_converter](https://www.youtube.com/@vvc_converter)
+[https://www.youtube.com/@vvcconverter](https://www.youtube.com/@vvcconverter)
 
 
 #FREE #vvc #vvc_converter #vvec_converter #H266 #Versatile_Video_Coding #vvc_telegram #vvc_uptodown_converter  
